@@ -1,0 +1,2 @@
+# winget
+Windows のセットアップ用
