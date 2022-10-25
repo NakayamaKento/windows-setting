@@ -1,2 +1,2 @@
-# winget
+# Windows Setting
 Windows のセットアップ用
