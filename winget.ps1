@@ -13,7 +13,7 @@ winget install Microsoft.VisualStudioCode
 winget install Microsoft.VisualStudio.2022.Enterprise
 
 #Storage Explorer
-winget install Microsoft.AzureStorageExplorer
+winget install Microsoft.Azure.StorageExplorer
 
 #Bicep
 winget install Microsoft.Bicep
